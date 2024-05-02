@@ -16,88 +16,85 @@ import androidx.compose.ui.semantics.contentDescription
 import androidx.compose.ui.semantics.semantics
 import androidx.compose.ui.tooling.preview.Preview
 
+@Suppress("ktlint:standard:function-naming")
 @OptIn(ExperimentalMaterial3Api::class)
 @Composable
-fun Badge(
+fun BadgeOwn(
     value: Int,
     icon: ImageVector,
-    iconDescription: String?=null,
+    iconDescription: String? = null,
 ) {
     BadgedBox(
         badge = {
-            androidx.compose.material3.Badge(
-
-            ) {
+            androidx.compose.material3.Badge {
                 Text(
                     text = "$value",
-                    modifier = Modifier.semantics {
-                        contentDescription = "$value new notification"
-                    }
+                    modifier =
+                        Modifier.semantics {
+                            contentDescription = "$value new notification"
+                        },
                 )
             }
-        }
+        },
     ) {
         Icon(imageVector = icon, contentDescription = iconDescription)
     }
-
 }
 
+@Suppress("ktlint:standard:function-naming")
 @Preview
 @Composable
-fun BadgePreview(
-
-) {
+fun BadgePreview() {
     Surface {
         NavigationBar {
             NavigationBarItem(
                 selected = false,
                 onClick = { /*TODO*/ },
                 icon = {
-                    Badge(
+                    BadgeOwn(
                         value = 800,
                         icon = Icons.Default.Email,
-                        iconDescription = ""
+                        iconDescription = "",
                     )
                 },
-                label = { Text(text = "email")}
+                label = { Text(text = "email") },
             )
             NavigationBarItem(
                 selected = false,
                 onClick = { /*TODO*/ },
                 icon = {
-                    Badge(
+                    BadgeOwn(
                         value = 8000,
                         icon = Icons.Default.Email,
-                        iconDescription = ""
+                        iconDescription = "",
                     )
                 },
-                label = { Text(text = "email")}
+                label = { Text(text = "email") },
             )
             NavigationBarItem(
                 selected = false,
                 onClick = { /*TODO*/ },
                 icon = {
-                    Badge(
+                    BadgeOwn(
                         value = 0,
                         icon = Icons.Default.Email,
-                        iconDescription = ""
+                        iconDescription = "",
                     )
                 },
-                label = { Text(text = "email")}
+                label = { Text(text = "email") },
             )
             NavigationBarItem(
                 selected = false,
                 onClick = { /*TODO*/ },
                 icon = {
-                    Badge(
+                    BadgeOwn(
                         value = 8,
                         icon = Icons.Default.Email,
-                        iconDescription = ""
+                        iconDescription = "",
                     )
                 },
-                label = { Text(text = "email")}
+                label = { Text(text = "email") },
             )
         }
-
     }
 }
