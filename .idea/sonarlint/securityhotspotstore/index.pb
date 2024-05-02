@@ -15,3 +15,11 @@ Wapp/src/main/java/com/practica/materialdesign/ui/componentes/AppBars/MediumTopA
 Vapp/src/main/java/com/practica/materialdesign/ui/componentes/AppBars/LargeTopAppBar.kt,e\0\e0c3402971de68b36794fe5c75f361f7d1d6432a
 |
 Lapp/src/main/java/com/practica/materialdesign/ui/componentes/Badges/Badge.kt,6\3\6315be5c7a8975eb93a74546aa415ac0b6e4d825
+„
+Tapp/src/main/java/com/practica/materialdesign/ui/componentes/Buttoms/FilledButtom.kt,8\1\811531a9bd37d6980794d0a8f1e5ad0834d9262a
+ƒ
+Sapp/src/main/java/com/practica/materialdesign/ui/componentes/Buttoms/TonalButtom.kt,f\8\f857cdde42acfaadc0a150cff930dc22a4e9f6b4
+Œ
+\app/src/main/java/com/practica/materialdesign/ui/componentes/Buttoms/OutlineButtomExample.kt,8\f\8fe7eacb1a2728aecbf5df5da282f8e361709997
+†
+Vapp/src/main/java/com/practica/materialdesign/ui/componentes/Buttoms/ElevatedButtom.kt,e\d\ed729ae2c48735af1d0e748f65f1f20d54c47f14
