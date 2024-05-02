@@ -1,3 +1,15 @@
 
 …
 Uapp/src/main/java/com/practica/materialdesign/ui/componentes/AppBars/BottomAppBars.kt,7\8\78c2f2b09cd4718381b11796b22e91335dfb95dd
+D
+app/build.gradle.kts,d\2\d2a4383452aad84a18429a5844d31330a012a9e6
+I
+gradle/libs.versions.toml,d\7\d7595319a0658be6f1ed500ad590d42e4b28bc4f
+‡
+Wapp/src/main/java/com/practica/materialdesign/ui/componentes/AppBars/SmallTopAppBars.kt,5\a\5a4ee53a59a2da3a04c1524956eea468ed0cd040
+‡
+Wapp/src/main/java/com/practica/materialdesign/ui/componentes/AppBars/CenterTopAppBar.kt,c\3\c3986ef0b78944b0a040368dec112ea004313e29
+‡
+Wapp/src/main/java/com/practica/materialdesign/ui/componentes/AppBars/MediumTopAppBar.kt,f\5\f58db35acac3af65aaed8e81ab5a8eff486a262a
+†
+Vapp/src/main/java/com/practica/materialdesign/ui/componentes/AppBars/LargeTopAppBar.kt,e\0\e0c3402971de68b36794fe5c75f361f7d1d6432a
