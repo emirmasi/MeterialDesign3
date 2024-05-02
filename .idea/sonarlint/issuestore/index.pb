@@ -13,3 +13,7 @@ Wapp/src/main/java/com/practica/materialdesign/ui/componentes/AppBars/CenterTopA
 Wapp/src/main/java/com/practica/materialdesign/ui/componentes/AppBars/MediumTopAppBar.kt,f\5\f58db35acac3af65aaed8e81ab5a8eff486a262a
 †
 Vapp/src/main/java/com/practica/materialdesign/ui/componentes/AppBars/LargeTopAppBar.kt,e\0\e0c3402971de68b36794fe5c75f361f7d1d6432a
+m
+=app/src/main/java/com/practica/materialdesign/MainActivity.kt,3\1\3170f622afa59ce179da4e057c5e66a1466e9d62
+|
+Lapp/src/main/java/com/practica/materialdesign/ui/componentes/Badges/Badge.kt,6\3\6315be5c7a8975eb93a74546aa415ac0b6e4d825
