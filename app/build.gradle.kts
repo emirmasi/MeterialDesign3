@@ -68,4 +68,9 @@ dependencies {
     debugImplementation(libs.androidx.ui.test.manifest)
     implementation("com.google.android.material:material:1.5.0-alpha01")
 
+    /*para el carrousel*/
+    implementation("com.google.accompanist:accompanist-pager:0.20.0")
+    implementation("androidx.compose.ui:ui-util:1.6.6")
+    implementation ("io.coil-kt:coil-compose:2.4.0")
+
 }

@@ -23,3 +23,17 @@ Sapp/src/main/java/com/practica/materialdesign/ui/componentes/Buttoms/TonalButto
 \app/src/main/java/com/practica/materialdesign/ui/componentes/Buttoms/OutlineButtomExample.kt,8\f\8fe7eacb1a2728aecbf5df5da282f8e361709997
 †
 Vapp/src/main/java/com/practica/materialdesign/ui/componentes/Buttoms/ElevatedButtom.kt,e\d\ed729ae2c48735af1d0e748f65f1f20d54c47f14
+
+Qapp/src/main/java/com/practica/materialdesign/ui/componentes/carousel/Carousel.kt,a\b\abdb676f0e5411370ef7a2e9a528ca65f97be962
+…
+Uapp/src/main/java/com/practica/materialdesign/ui/componentes/carousel/CarouselItem.kt,c\7\c7e58196de6a8ed7a04425677040a13a588a0c56
+m
+=app/src/main/java/com/practica/materialdesign/MainActivity.kt,3\1\3170f622afa59ce179da4e057c5e66a1466e9d62
+
+Qapp/src/main/java/com/practica/materialdesign/ui/componentes/carousel/Coilmage.kt,e\8\e8b418ec690ff378367173c88804ce4fcacca4b3
+P
+ app/src/main/AndroidManifest.xml,8\c\8c55c3ccc257e5907959013f99656e4c8ec3903e
+
+Oapp/src/main/java/com/practica/materialdesign/ui/componentes/card/FilledCard.kt,d\c\dce49388000c351a07f1d21042c095883a04bb36
+n
+>app/src/main/java/com/practica/materialdesign/ui/theme/Type.kt,4\f\4f5a1610d736fb63bf55afcb6c45024fe3244d16
